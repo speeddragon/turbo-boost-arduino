@@ -7,3 +7,5 @@ This is a repository with Arduino code and KiCad schematics for a turbo boost se
 - NodeMCU (microcontroller)
 
 ![Arduino Turbo Boost](arduino_turbo_boost.jpg)
+
+Simulator (WIP) - https://wokwi.com/projects/461746976419620865
